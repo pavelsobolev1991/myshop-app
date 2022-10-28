@@ -1,0 +1,24 @@
+.modalBackground {
+  position: fixed;
+  width: 100vw;
+  height: 100vh;
+  background-color: rgba(0, 0, 0, 0.4);
+  z-index: 6;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.modal__info {
+  position: fixed;
+  z-index: 7;
+  top: 100px;
+  width: 450px;
+  height: 550px;
+  border: 1px solid #817e7e;
+  background-color: rgb(173, 173, 173);
+  border-radius: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
