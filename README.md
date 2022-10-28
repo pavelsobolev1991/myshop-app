@@ -10,6 +10,7 @@ http://localhost:1337/admin</p>
 <p>пароль 12345678Aa</p>
 
 <p>2) затем в папке frontend введите npm start</p>
+<img src="https://i.ibb.co/3C7rFNq/app.png" height="300"/>
 
 <h2>Описание работы приложения</h2>
 
