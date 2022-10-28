@@ -20,7 +20,7 @@
   <h3>При нажатии на кнопку Добавить товар открывается форма для создания нового товара</h3>
    <img src="https://i.ibb.co/ZSsfxKL/new.png" height="300"/>
   <h3>Добавляется новый товар</h3>
-  <img src="https://i.ibb.co/Ctwm57m/new-good.png" height="300"/>
+  <img src="https://i.ibb.co/cNTrcnC/new-good.png" height="300"/>
   <h3>При нажатии на кнопку купить всплывает сообщение с информацией</h3>
   <img src="https://i.ibb.co/0CKywFb/price.png" height="300"/>
   <h3>При удалении товара всплывает сообщение с информацией</h3>
